@@ -1,9 +1,9 @@
-# small-seasons
+# weekly-cycling-distance
 
 *Scriptable widget that displays some cycling distance stats.*
 
 **Explain!**
-Once set up (see "Any setup required?" below), the widget will show your total cycling distance in the last seven days, plus the previous seven days. Keeps me motivated to try and Make Number Go Up.
+Once set up (see "Any setup required?" below), the widget will show your total cycling distance in the last seven days, plus the previous seven days. Keeps me motivated to try and Make Number Go Up™.
 
 ![](demo.jpg)
 <sup>Serving suggestion, app icon warp effect not included.</sup>
