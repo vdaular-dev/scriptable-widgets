@@ -98,10 +98,10 @@ const backgroundImage = Image.fromFile(backgroundImagePath);
 let widget = new ListWidget();
 widget.backgroundColor = new Color("#3a3a3a");
 widget.backgroundImage = backgroundImage;
-widget.setPadding(8, 8, 8, 8);
+widget.setPadding(8, 8, 10, 8);
 
 // leave space for the logo
-widget.addSpacer(38);
+widget.addSpacer(40);
 
 // display user@server
 let userServer = widget.addText(`${data.user}@${data.server}`.toUpperCase());
