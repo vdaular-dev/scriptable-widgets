@@ -14,6 +14,8 @@ This repository holds a [monotonically non-decreasing](https://en.wikipedia.org/
 
 [![](small-seasons/demo.jpg)](small-seasons/)
 
+[![](weekly-cycling-distance/demo.jpg)](weekly-cycling-distance/)
+
 
 ## Setup
 
